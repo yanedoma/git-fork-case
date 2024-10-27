@@ -7,3 +7,4 @@ Repository for git fork case.
 
 Для перехода в ветку есть команда `git checkout %BRANCH_NAME%`. 
  new строка файла
+ edit only in diff
